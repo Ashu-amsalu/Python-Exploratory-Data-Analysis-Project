@@ -1,4 +1,4 @@
-# Python-Exploratory-Data-Analysis-EDA-Project
+#### 🙏 Welcome to Python-Exploratory-Data-Analysis-EDA-Project
 ### 🛠️ Project Overview
 This project performs Exploratory Data Analysis (EDA) on a TikTok dataset to uncover insights about video performance, content, and author behaviour. 
 The dataset includes information about video metadata, engagement metrics, author verification, and ban status.
