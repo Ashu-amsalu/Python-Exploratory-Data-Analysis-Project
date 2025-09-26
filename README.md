@@ -1,5 +1,5 @@
 # Python-Exploratory-Data-Analysis-EDA-Project
-### 🛠️ Project Over View
+### 🛠️ Project Overview
 This project performs Exploratory Data Analysis (EDA) on a TikTok dataset to uncover insights about video performance, content, and author behaviour. 
 The dataset includes information about video metadata, engagement metrics, author verification, and ban status.
     
@@ -39,4 +39,9 @@ The dataset is stored in a single table named tiktok_dataset.csv with the follow
     -	numpy – Numerical operations
     -	matplotlib – Data visualization
     -	seaborn – Statistical plots
-    -	wordcloud – Optional, for text visualisation
+    -	datetime - Compare dates and extract parts
+### 📜 License
+This project is licensed under the MIT License, which grants you the freedom to use, modify, and share it, provided that proper credit is given.
+### 🙋‍♂️ About me
+Hi there! I’m Aysheshim Amsalu, an Industrial Engineering professional passionate about leveraging data analysis to solve real-world challenges. My work focuses on transforming raw data into actionable insights that drive smarter decisions
+
